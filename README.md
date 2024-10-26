@@ -1,4 +1,4 @@
-# Machine Learning Fundamentals
+# Deep Learning Fundamentals
 This reposiory is the code implementation of the practical sessions of the Deep Learning fundamentals' O'Reilly Python-based course by [Julián Miranda](https://github.com/juliandariomirandacalle/). All algorithms are described in the notebooks included in the content and developed in Python.
 
 # Repository Content
